@@ -15,6 +15,7 @@ public class BaseballCoach implements Coach {
 		// TODO Auto-generated method stub
 		return fortuneSevice.getFortune();
 	}
+	//Made changes on demoA
 }
 
 
